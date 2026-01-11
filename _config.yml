@@ -1,0 +1,23 @@
+# GitHub Pages configuration
+title: GyaanKosh Library Management System
+description: Next generation library management system
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# GitHub Pages settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Exclude files from processing
+exclude:
+  - backend/
+  - k8s/
+  - Dockerfile
+  - docker-compose.yml
+  - README.md
