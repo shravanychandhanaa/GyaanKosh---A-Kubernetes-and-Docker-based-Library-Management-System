@@ -1,0 +1,13 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: seed-admin-job
+spec:
+  template:
+    spec:
+      containers:
+        - name: seed-admin
+          image: curlimages/curl
+          command: ["curl", "-v", "http://backend-service:5000/api/admin/seed"]
+      restartPolicy: OnFailure
+  backoffLimit: 4
