@@ -22,7 +22,6 @@
     <p><strong>Email ID:</strong> shravanychandhanaa28@gmail.com </p>
     <p><strong>College Name:</strong> Avanthi Institute of Engeering & Technology </p>
     <p><strong>Branch/Specialization :</strong> ECE </p>
-    <p><strong>College ID:</strong> 10Q65A0403 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
