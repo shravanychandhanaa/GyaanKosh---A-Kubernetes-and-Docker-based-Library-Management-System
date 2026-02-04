@@ -4,18 +4,11 @@ A modern, web-based library management system built with HTML, CSS, and JavaScri
 
 ## 🚀 Live Demo
 
-This website is hosted on GitHub Pages at: `https://[your-username].github.io/[repository-name]`
+This website is hosted on GitHub Pages at: `https://shravanychandhanaa.github.io/GyaanKosh---A-Kubernetes-and-Docker-based-Library-Management-System/)`
 
 ## 📁 Project Structure
 
-- `index.html` - Main homepage
-- `public-catalog.html` - Public book catalog
-- `login.html` - User login page
-- `signup.html` - User registration page
-- `student-dashboard.html` - Student dashboard
-- `librarian-dashboard.html` - Librarian dashboard
-- `style.css` - Main stylesheet
-- `script.js` - Main JavaScript functionality
+- `frontend/`- Frontend (watch in about section of the root folder) 
 - `backend/` - Backend API (not used in GitHub Pages deployment)
 - `k8s/` - Kubernetes configuration files
 
@@ -56,6 +49,3 @@ Your site will be available at `https://[your-username].github.io/[repository-na
 3. Make your changes
 4. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License.
