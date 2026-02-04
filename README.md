@@ -40,8 +40,8 @@
 <div align="left" style="margin: 20px; font-size: 16px;">
 
 <p><strong>Trainer Name:</strong> Mr. Jasdeep Singh Hanspal</p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Email ID:</strong> Jasdeep.jsh+suretrust@gmail.com</p>
+<p><strong>Trainer Designation:</strong> Senior Manager</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
