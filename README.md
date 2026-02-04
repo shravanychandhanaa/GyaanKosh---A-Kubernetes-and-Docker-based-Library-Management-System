@@ -109,7 +109,7 @@
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> The LST and SST sessions at the Skill India Institute helped me develop professional ethics, effective communication, and workplace awareness. Through work culture and advocacy sessions, I gained an understanding of integrity, gender equality, and respectful professional behavior. The yoga and mindfulness practices improved my self-discipline and stress management, while community engagement with elderly citizens strengthened my empathy and social responsibility. Overall, these sessions supported my personal growth, career readiness, and balanced lifestyle.
+> The LST and SST sessions at the Sure Trust Foundation helped me develop professional ethics, effective communication, and workplace awareness. Through work culture and advocacy sessions, I gained an understanding of integrity, gender equality, and respectful professional behavior. The yoga and mindfulness practices improved my self-discipline and stress management, while community engagement with elderly citizens strengthened my empathy and social responsibility. Overall, these sessions supported my personal growth, career readiness, and balanced lifestyle.
 ---
 
 ## **Community Services**
