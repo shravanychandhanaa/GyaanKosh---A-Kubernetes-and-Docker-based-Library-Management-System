@@ -41,7 +41,7 @@
 
 <p><strong>Trainer Name:</strong> Mr. Jasdeep Singh Hanspal</p>
 <p><strong>Trainer Email ID:</strong> Jasdeep.jsh+suretrust@gmail.com</p>
-<p><strong>Trainer Designation:</strong> Senior Manager</p>
+<p><strong>Trainer Designation:</strong> Senior Manager, Microsoft Corporation</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
