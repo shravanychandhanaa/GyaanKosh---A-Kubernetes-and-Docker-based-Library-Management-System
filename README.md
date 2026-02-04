@@ -112,26 +112,29 @@
 
 <!-- add descreption in your own words -->
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented and professional development activities organized through the LST and SST sessions at the Skill India Institute. These initiatives were designed to build a bridge between technical expertise and social responsibility. By engaging in both social service and professional ethics workshops, I developed a well-rounded perspective on my role as both an engineer and a responsible citizen.
 
 ### **Activities Involved**
 <!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+- **Work Culture & Ethics Workshops** – Attended specialized sessions on professional conduct, workplace integrity, and corporate etiquette.
   
  <!-- add the location where you have panted -->
-- **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
+- **Advocacy & Awareness** – Participated in sessions focused on workplace acts for women, ensuring a deep understanding of safety, rights, and gender equality in a professional setting.
 
   <!-- add the location where you helped -->
-- **Helping Elder Citizens** – Assisted two elderly individuals with simple daily tasks and provided support where needed. 
+- **Holistic Wellness** – Practiced yoga and mindfulness to improve self-discipline and stress management.
 
+  <!-- add the location where you helped -->
+- **Elderly Assistance** – Engaged with elderly citizens to provide daily task support, fostering empathy and strengthening community bonds.
+  
 <!-- you can write impacts according to your experience in your words-->
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+- Professional Integrity: Gained a clear understanding of workplace ethics and the legal frameworks protecting women, ensuring a safe and respectful professional environment.
+- Career Preparedness: Improved communication and coordination skills through group activities, building the confidence necessary for modern work cultures.
+- Balanced Lifestyle: Successfully integrated stress management techniques to maintain productivity while contributing positively to social causes.
+- Social Awareness: Developed a heightened sense of empathy and responsibility toward vulnerable members of society and environmental conservation.
 
 ### **Photos**
 
