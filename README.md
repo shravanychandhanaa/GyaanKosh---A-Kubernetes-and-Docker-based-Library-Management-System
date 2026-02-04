@@ -105,7 +105,7 @@
 ## **Learnings from LST and SST**
 
 <!-- add your experiences over here -->
-> The LST and SST sessions at Skill India Institute helped me grow personally, professionally, and socially. Through life skills, yoga, and job-search sessions, I learned self-discipline, stress management, communication, and career preparedness. The social service activities such as tree plantation and helping elderly people made me more responsible, empathetic, and socially aware. Overall, these sessions helped me build confidence, maintain a balanced lifestyle, and understand the importance of contributing positively to society.
+> The LST and SST sessions at the Skill India Institute helped me develop professional ethics, effective communication, and workplace awareness. Through work culture and advocacy sessions, I gained an understanding of integrity, gender equality, and respectful professional behavior. The yoga and mindfulness practices improved my self-discipline and stress management, while community engagement with elderly citizens strengthened my empathy and social responsibility. Overall, these sessions supported my personal growth, career readiness, and balanced lifestyle.
 ---
 
 ## **Community Services**
