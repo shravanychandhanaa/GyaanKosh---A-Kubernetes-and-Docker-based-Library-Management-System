@@ -100,7 +100,7 @@
 - [Kubernetes](https://kubernetes.io/docs/home/)
 - [Docker](https://docs.docker.com/)
 - [Minikube](https://minikube.sigs.k8s.io/docs/start/?arch=%2Fwindows%2Fx86-64%2Fstable%2F.exe+download)
-- [Chagpt](https://chatgpt.com/)
+- [Chatgpt](https://chatgpt.com/)
 - [w3schools](https://www.w3schools.com/)
 <!--you can add refrences over here in same syntax as above -->
 ---
